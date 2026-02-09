@@ -179,5 +179,3 @@ Key Insights
 Conclusion
 
 This project demonstrates strong expertise in **Power BI Dataflows**, **DAX-based financial analytics**, and **advanced visual storytelling**. By sourcing data from SQL Server via Dataflows, the solution ensures scalable, reusable, and enterprise-ready reporting.
-
-Just tell me what you want next 🚀
