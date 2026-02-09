@@ -1,8 +1,9 @@
-Loan Data Analysis Dashboard (Power BI + Dataflows+ SQL Server)
+<h2 style="font-size:40px;">Loan Data Analysis(Power BI + Dataflows+ SQL Server)
+</h2>
 
-Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiM2M3YzRkODAtMGRmMi00Mjc1LWIxN2MtNTUxZDg2NjRlMjMxIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9&pageName=32510eb46b87975932a8
+Link: https://app.powerbi.com/view?r=eyJrIjoiM2M3YzRkODAtMGRmMi00Mjc1LWIxN2MtNTUxZDg2NjRlMjMxIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9&pageName=32510eb46b87975932a8
 
-Dashboard Overview
+Overview
 
 This project presents a **Loan Data Analysis Dashboard** developed using **Power BI**, with **Power BI Dataflows** as the data source. The data used in the dataflow is sourced from **SQL Server**, enabling centralized data preparation and reuse across reports.
 
